@@ -1,4 +1,0 @@
-service.controller.hue:
-  hueBridge:
-    host: http://192.168.1.110
-    username: g3avkmfKYFZtxwb6Ny7DNQgQXJtn7Sl3VzEcbJDi
